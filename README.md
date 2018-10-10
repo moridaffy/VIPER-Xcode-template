@@ -47,7 +47,7 @@ After using VIPER, I've found it to be very beneficial in many ways. Let’s get
 - [https://www.ckl.io/blog/ios-project-architecture-using-viper/](https://www.ckl.io/blog/ios-project-architecture-using-viper/)
 
 
-## Author
+## Authors
 
-* Maxim Skryabin [💻](http://mskr.name)
-* Juanpe Catalán [🔧](https://github.com/Juanpe/Swift-VIPER-Module) - original creator
+* [Maxim Skryabin](http://mskr.name)
+* [Juanpe Catalán - original creator](https://github.com/Juanpe/Swift-VIPER-Module)
