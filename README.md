@@ -25,7 +25,7 @@ Just create new file, select template and type in the module's name:
 ![](/Images/wizard.png)
 
 ## Generated code
-This template generates all files that you need to create a new VIPER module. All generated code is Swift 3.
+This template generates all files that you need to create a new VIPER module. All generated code is Swift 4.
 
 ![](/Images/files.png)
 
