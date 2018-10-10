@@ -10,7 +10,6 @@ When you decide to use VIPER architecture in your project, it is very tired crea
 
 ## How to install
 
-### Using script (easy)
 Just clone the git, open terminal, navigate to project's folder and run the following command:
 ```swift
 sudo swift install.swift
@@ -25,7 +24,7 @@ Just create new file, select template and type in the module's name:
 ![](/Images/wizard.png)
 
 ## Generated code
-This template generates all files that you need to create a new VIPER module. All generated code is Swift 4.
+This template generates all files that you need to create a new VIPER module. All generated code is written in Swift 4.
 
 ![](/Images/files.png)
 
@@ -41,10 +40,9 @@ After using VIPER, I've found it to be very beneficial in many ways. Let’s get
 - Spec-ability
 
 ## References
-- [iOS Architecture Patterns](https://medium.com/ios-os-x-development/ios-architecture-patterns-ecba4c38de52#.ba7q8dcih)
-- [#8 VIPER to be or not to be?](https://swifting.io/blog/2016/03/07/8-viper-to-be-or-not-to-be/)
-- [https://www.objc.io/issues/13-architecture/viper/](https://www.objc.io/issues/13-architecture/viper/)
-- [https://www.ckl.io/blog/ios-project-architecture-using-viper/](https://www.ckl.io/blog/ios-project-architecture-using-viper/)
+- 🇺🇸 [iOS Architecture Patterns](https://medium.com/ios-os-x-development/ios-architecture-patterns-ecba4c38de52#.ba7q8dcih)
+- 🇺🇸 [#8 VIPER to be or not to be?](https://swifting.io/blog/2016/03/07/8-viper-to-be-or-not-to-be/)
+- 🇷🇺 [Введение в VIPER](https://habr.com/post/273061/)
 
 
 ## Authors
