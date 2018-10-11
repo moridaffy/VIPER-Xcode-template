@@ -9,8 +9,6 @@
 //  Can be accessed at: https://github.com/moridaffy/VIPER-Xcode-template
 //
 
-import UIKit
-
 class ___VARIABLE_productName:identifier___Configurator: ___VARIABLE_productName:identifier___ConfiguratorProtocol {
     
     func configure(with viewController: ___VARIABLE_productName:identifier___ViewController) {

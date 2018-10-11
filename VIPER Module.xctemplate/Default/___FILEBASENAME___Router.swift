@@ -9,8 +9,6 @@
 //  Can be accessed at: https://github.com/moridaffy/VIPER-Xcode-template
 //
 
-import UIKit
-
 class ___VARIABLE_productName:identifier___Router: ___VARIABLE_productName:identifier___RouterProtocol {
     
     var viewController: ___VARIABLE_productName:identifier___ViewController!

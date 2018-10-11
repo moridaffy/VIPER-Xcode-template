@@ -9,8 +9,6 @@
 //  Can be accessed at: https://github.com/moridaffy/VIPER-Xcode-template
 //
 
-import UIKit
-
 class ___VARIABLE_productName:identifier___Presenter: ___VARIABLE_productName:identifier___PresenterProtocol {
 
     var view: ___VARIABLE_productName:identifier___ViewProtocol!
